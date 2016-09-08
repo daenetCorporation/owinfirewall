@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinFwWebApp", "OwinASPNet\OwinFwWebApp.csproj", "{91D685F2-EF0E-41FD-BB36-66E800FDDE8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1F1BC06A-1E11-4DB1-B9C7-8B7E14139856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinFirewall", "OwinFirewall\OwinFirewall.csproj", "{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assemblies", "assemblies", "{517D560F-787A-44A3-857E-3961CC2E107D}"
+	ProjectSection(SolutionItems) = preProject
+		OwinFirewall\obj\Debug\OwinFirewall.dll = OwinFirewall\obj\Debug\OwinFirewall.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D685F2-EF0E-41FD-BB36-66E800FDDE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D685F2-EF0E-41FD-BB36-66E800FDDE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D685F2-EF0E-41FD-BB36-66E800FDDE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D685F2-EF0E-41FD-BB36-66E800FDDE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91D685F2-EF0E-41FD-BB36-66E800FDDE8C} = {1F1BC06A-1E11-4DB1-B9C7-8B7E14139856}
+		{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951} = {1F1BC06A-1E11-4DB1-B9C7-8B7E14139856}
+	EndGlobalSection
+EndGlobal
