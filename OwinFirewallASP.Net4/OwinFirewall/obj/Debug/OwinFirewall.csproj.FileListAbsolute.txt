@@ -3,3 +3,6 @@ C:\Users\ataulhayezafarahmad\documents\visual studio 2015\Projects\OwinASPNet\Ow
 C:\Users\ataulhayezafarahmad\documents\visual studio 2015\Projects\OwinASPNet\OwinFirewall\obj\Debug\OwinFirewall.csprojResolveAssemblyReference.cache
 C:\Users\ataulhayezafarahmad\documents\visual studio 2015\Projects\OwinASPNet\OwinFirewall\obj\Debug\OwinFirewall.dll
 C:\Users\ataulhayezafarahmad\documents\visual studio 2015\Projects\OwinASPNet\OwinFirewall\obj\Debug\OwinFirewall.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinFirewall\obj\Debug\OwinFirewall.csprojResolveAssemblyReference.cache
+C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinFirewall\obj\Debug\OwinFirewall.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinFirewall\obj\Debug\OwinFirewall.pdb
