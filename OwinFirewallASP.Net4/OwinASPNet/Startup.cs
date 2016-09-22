@@ -13,7 +13,7 @@ namespace OwinASPNet
     {
         public void Configuration(IAppBuilder app)
         {
-            // Change :12 to ::1 if you want to unblock your local IP.
+            // Change :14 to ::1 if you want to unblock your local IP.
             app.UseOwinFirewall(new Daenet.Owin.OwinFirewallOptions(new List<string>() { "79.206.242.74", "::1", "localhost", "212.144.228.0/24", "62.96.6.0/27" }));
 
             app.Use((context, next) =>
