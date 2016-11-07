@@ -1,11 +1,12 @@
 ﻿using Microsoft.Owin;
-using Owin;
+using Daenet.Owin;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
+using Owin;
 
 namespace Daenet.Owin
 {
@@ -87,8 +88,8 @@ namespace Daenet.Owin
 
             
             if (context.Request.Method != "OPTIONS")
-            {
-                /*
+            {/*
+                
                 if (m_Opts.ProtectedPath != null && context.Request.Uri.AbsoluteUri.ToLower().Contains(m_Opts.ProtectedPath))
                 {
                     if (context.Environment.ContainsKey(OptionsKey) == false)

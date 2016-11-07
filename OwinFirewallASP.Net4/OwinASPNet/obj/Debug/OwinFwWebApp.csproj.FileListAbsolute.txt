@@ -177,4 +177,3 @@ C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\Owin
 C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinASPNet\bin\System.Web.Http.Owin.xml
 C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinASPNet\obj\Debug\OwinASPNet.dll
 C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinASPNet\obj\Debug\OwinASPNet.pdb
-C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.Net4\OwinASPNet\obj\Debug\OwinFwWebApp.csprojResolveAssemblyReference.cache

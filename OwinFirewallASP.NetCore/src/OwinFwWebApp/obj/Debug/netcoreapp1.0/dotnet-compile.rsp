@@ -1,5 +1,5 @@
---temp-output:C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFwWebApp\obj\Debug\netcoreapp1.0\
---out:C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFwWebApp\bin\Debug\netcoreapp1.0\OwinFwWebApp.dll
+--temp-output:C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFwWebApp\obj\Debug\netcoreapp1.0\
+--out:C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFwWebApp\bin\Debug\netcoreapp1.0\OwinFwWebApp.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -169,8 +169,8 @@
 --reference:C:\Users\ataulhayezafarahmad\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\ataulhayezafarahmad\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\ataulhayezafarahmad\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFirewall\bin\Debug\netstandard1.6\OwinFirewall.dll
---resource:"C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFwWebApp\obj\Debug\netcoreapp1.0\OwinFwWebAppdotnet-compile.deps.json",OwinFwWebApp.deps.json
-C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFwWebApp\Program.cs
-C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFwWebApp\Startup.cs
-C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NET5\src\OwinFwWebApp\Controllers\ValuesController.cs
+--reference:C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFirewall\bin\Debug\netstandard1.6\OwinFirewall.dll
+--resource:"C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFwWebApp\obj\Debug\netcoreapp1.0\OwinFwWebAppdotnet-compile.deps.json",OwinFwWebApp.deps.json
+C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFwWebApp\Program.cs
+C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFwWebApp\Startup.cs
+C:\Users\ataulhayezafarahmad\Source\Repos\owinfirewall\OwinFirewallASP.NetCore\src\OwinFwWebApp\Controllers\ValuesController.cs

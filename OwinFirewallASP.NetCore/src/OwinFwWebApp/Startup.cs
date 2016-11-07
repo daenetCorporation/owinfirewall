@@ -39,9 +39,9 @@ namespace OwinFwWebApp
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
 
-            // Change :11 to ::1 if you want to unblock your local IP.
+            // Change ::2 to ::1 if you want to unblock your local IP.
             app.UseOwinFirewall(new Daenet.Owin.OwinFirewallOptions(new List<string>()
-            { "79.206.242.74", "::11", "localhost", "222.111.228.225/27" }));
+            { "79.206.242.74", "::1", "localhost", "222.111.228.225/27" }));
             app.UseMvc();
         }
     }
