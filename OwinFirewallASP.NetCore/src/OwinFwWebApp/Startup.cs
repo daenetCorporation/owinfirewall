@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Daenet.Owin;
 
-namespace OwinFwWebApp
+namespace Daenet.Owin
 {
     public class Startup
     {

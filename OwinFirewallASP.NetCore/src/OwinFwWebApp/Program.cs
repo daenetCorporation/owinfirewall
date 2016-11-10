@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
 
-namespace OwinFwWebApp
+namespace Daenet.Owin
 {
     public class Program
     {

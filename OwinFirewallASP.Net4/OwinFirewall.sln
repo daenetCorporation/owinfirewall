@@ -10,9 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinFirewall", "OwinFirewall\OwinFirewall.csproj", "{3501C5D4-7F19-4B5E-AD8B-15C0FFC9C951}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assemblies", "assemblies", "{517D560F-787A-44A3-857E-3961CC2E107D}"
-	ProjectSection(SolutionItems) = preProject
-		OwinFirewall.dll = OwinFirewall.dll
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
