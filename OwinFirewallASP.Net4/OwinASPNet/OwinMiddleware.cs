@@ -88,62 +88,7 @@ namespace Daenet.Owin
             
             if (context.Request.Method != "OPTIONS")
             {
-                /*
-                if (m_Opts.ProtectedPath != null && context.Request.Uri.AbsoluteUri.ToLower().Contains(m_Opts.ProtectedPath))
-                {
-                    if (context.Environment.ContainsKey(OptionsKey) == false)
-                        context.Environment.Add(OptionsKey, m_Opts);
-
-                    if (context.Authentication.User != null && !(context.Authentication.User.Identity is GenericIdentity))
-                    {
-                        if (context.Authentication.User.Identity.AuthenticationType != "device")
-                        {
-                            if (!context.Request.Headers.ContainsKey(m_Opts.AuthHeaderName))
-                            {
-                                await context.Response.WriteAsync(m_Opts.ErrorOnMissingHeader);
-                                context.Response.StatusCode = 401;
-                                return;
-                            }
-                            else
-                            {
-                                var hVal = context.Request.Headers[m_Opts.AuthHeaderName];
-                                var tokens = hVal.Split(',');
-
-                                if (tokens.Length != 2)
-                                {
-                                    await context.Response.WriteAsync("Invalid token format.");
-                                    context.Response.StatusCode = 401;
-                                    return;
-                                }
-
-                                long id;
-
-                                if (long.TryParse(tokens[0], out id))
-                                {
-                                    if (this.m_Opts.OnValidateHeader.Invoke(id, tokens[1]))
-                                    {
-                                        GenericIdentity identity = new GenericIdentity("device", "device");
-                                        context.Authentication.User = new System.Security.Claims.ClaimsPrincipal(identity);
-                                    }
-                                    else
-                                    {
-                                        await context.Response.WriteAsync("Invalid DeviceKey or DeviceId");
-                                        context.Response.StatusCode = 401;
-                                        return;
-                                    }
-                                }
-                                else
-                                {
-                                    await context.Response.WriteAsync("Invalid deviceId in token.");
-                                    context.Response.StatusCode = 401;
-                                    return;
-                                }
-                            }
-
-
-                        }
-                    }
-                }*/
+                
             }
 
             await m_Next.Invoke(context);
