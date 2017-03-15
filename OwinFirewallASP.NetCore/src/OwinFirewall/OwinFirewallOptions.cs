@@ -31,11 +31,12 @@ namespace Daenet.Owin
                     int mask;
                     if (int.TryParse(tokens[1], out mask))
                     {
+
                         mask = 32 - mask;
                         IPAddress netAddr = IPAddress.Parse(tokens[0]);
-                        for (int i = 0; i < mask; i++)
+                        for (int i = 0; i < Math.Pow(2, mask); i++)
                         {
-                            long intAddress = (long)(uint)IPAddress.NetworkToHostOrder((int)BitConverter.ToInt32(netAddr.GetAddressBytes(),0));
+                            long intAddress = (long)(uint)IPAddress.NetworkToHostOrder((int)BitConverter.ToInt32(netAddr.GetAddressBytes(), 0));
                             addressCounter++;
                             string ipAddress = IPAddress.Parse((intAddress + addressCounter).ToString()).ToString();
 
