@@ -33,7 +33,7 @@ namespace Daenet.Owin
                     {
                         mask = 32 - mask;
                         IPAddress netAddr = IPAddress.Parse(tokens[0]);
-                        for (int i = 0; i < mask; i++)
+                        for (int i = 0; i < Math.Pow(2, mask); i++)
                         {
                             long intAddress = (long)(uint)IPAddress.NetworkToHostOrder((int)netAddr.Address);
                             addressCounter++;
