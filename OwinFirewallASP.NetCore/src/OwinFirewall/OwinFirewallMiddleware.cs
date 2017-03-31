@@ -82,7 +82,7 @@ namespace Daenet.Owin
                     }
                 }
 
-                //context.Response.StatusCode = 401;
+                 context.Response.StatusCode = 401;
                 return;
             }
 
