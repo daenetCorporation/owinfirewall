@@ -18,7 +18,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
   }
 ```
 This example demonstrates, how to enable specific IP addresses and the range of addresses by using of CIDR specification.
-![](https://github.com/daenetCorporation/owinfirewall/blob/master/OwinFirewallASP.NetCore/OwinIpList.Jpg
+![](https://github.com/daenetCorporation/owinfirewall/blob/master/OwinFirewallASP.NetCore/OwinIpList.JPG)
 
 # If the local IP Address is unblocked 
 If the local IP address is unblocked in the IP blocking list, then it will display the following page
