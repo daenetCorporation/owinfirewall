@@ -6,7 +6,7 @@ OWIN firewall provides a simple OWIN middleware for IP address blocking of your 
 Owin Middleware, which provides IP blocking list OWIN defines a standard interface between .NET web servers and web applications. The goal of the OWIN interface is to decouple server and application, encourage the development of simple modules for .NET web development, and, by being an open standard, stimulate the open source ecosystem of .NET web development tools.
 
 # Whitelisting of IP addresses 
-To specify users, which are considered to use it. Go to the startup of the application and add the particular IP addresses as shown in the code below.
+To specify users, which are considered to use it. Go to the startup of the application and type the particular IP addresses as shown in the code below.
 ```c#
 public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
 {
