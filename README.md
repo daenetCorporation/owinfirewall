@@ -28,7 +28,7 @@ If the local IP address is unblocked in the IP blocking list, then it will displ
 This web page will appear when the IP address is blocked for a certain application.
 ![](https://github.com/daenetCorporation/owinfirewall/blob/master/Images/owinFirewall.jpg)
 
-#How to add NuGet Package to the application
+# How to add NuGet Package to the application
 After cloning the project and the NuGet package to the solution. To make it applicable, do the following: open the prompt window, build the solution and create NuGet package by typing the command ```dotnet pack``` it will create the .nupkg files in the debug folder of OwinFirewall. 
 ![](https://github.com/daenetCorporation/owinfirewall/blob/master/Images/AddNugetPackageToApplication0.png)
 Copy the .nupkg files in any other folder. Now open the solution in Visual Studio, by right clicking on the references of OwinFwWebApp it shall open you the NuGet Package Manager. In package source box enter the path of the folder where you copied your .nupkg files, it shows you the OwinFirewall NuGet package. Finally, install the owinFirewall package.
