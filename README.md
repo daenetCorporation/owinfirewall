@@ -11,17 +11,7 @@ Middleware is software that is assembled into an application pipeline to handle 
 todo..
 
 2. Whitelisting of IP addresses 
-To specify users, which are considered to use it. Go to the startup of the application and type the particular IP addresses as shown in the code below.By default this OWIN middleware block all IP addresses.
-```c#
-public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
-{
-   loggerFactory.AddConsole(Configuration.GetSection("Logging"));
-   loggerFactory.AddDebug();
-   app.UseOwinFirewall(new Daenet.Owin.OwinFirewallOptions(new List<string>()
-  { "81.207.142.79", "::1", "localhost", "222.111.228.225/27" }));
-     app.UseMvc();
-  }
-```
+To specify users, which are considered to use it. Go to the startup of the application and type the particular IP addresses as shown in the picture below.By default this OWIN middleware block all IP addresses.
 This example demonstrates, how to enable specific IP addresses and the range of addresses by using of CIDR specification.
 ![](https://github.com/daenetCorporation/owinfirewall/blob/master/OwinFirewallASP.NetCore/OwinIpList.JPG)
 
