@@ -6,8 +6,7 @@ Inside of this repository you will find two applications. One is implemented on 
 
 
 ## How does it work?
-Owin Middleware, which provides IP blocking list OWIN defines a standard interface between .NET web servers and web applications. The goal of the OWIN interface is to decouple server and application, encourage the development of simple modules for .NET web development, and, by being an open standard, stimulate the open source ecosystem of .NET web development tools.
-
+Middleware is software that is assembled into an application pipeline to handle requests and responses. Each component chooses whether to pass the request on to the next component in the pipeline, and can perform certain actions before and after the next component is invoked in the pipeline.
 1. Add nuget package:
 todo..
 
