@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26621.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{01109FF7-1D9F-41A3-88DF-E1613FB3507D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E4C2E7F-78D7-4C8E-BD77-2059DD82134B}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaenetFwWebApp", "DaenetFwWebApp\DaenetFwWebApp.csproj", "{92C5B259-F7D1-4251-A50B-1111D6C0E2D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaenetFirewall", "DaenetFirewall\DaenetFirewall.csproj", "{5649201A-EAA4-4807-A158-5E9CE9383D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C5B259-F7D1-4251-A50B-1111D6C0E2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C5B259-F7D1-4251-A50B-1111D6C0E2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C5B259-F7D1-4251-A50B-1111D6C0E2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C5B259-F7D1-4251-A50B-1111D6C0E2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5649201A-EAA4-4807-A158-5E9CE9383D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5649201A-EAA4-4807-A158-5E9CE9383D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5649201A-EAA4-4807-A158-5E9CE9383D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5649201A-EAA4-4807-A158-5E9CE9383D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92C5B259-F7D1-4251-A50B-1111D6C0E2D1} = {01109FF7-1D9F-41A3-88DF-E1613FB3507D}
+		{5649201A-EAA4-4807-A158-5E9CE9383D29} = {01109FF7-1D9F-41A3-88DF-E1613FB3507D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F9699E-E015-4609-9925-9FA23D59EF31}
+	EndGlobalSection
+EndGlobal
