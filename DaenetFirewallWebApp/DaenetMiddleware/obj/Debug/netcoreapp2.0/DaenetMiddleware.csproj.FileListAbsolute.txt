@@ -1,0 +1,22 @@
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\DaenetMiddleware.deps.json
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\DaenetMiddleware.dll
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\DaenetMiddleware.pdb
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csprojResolveAssemblyReference.cache
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csproj.CoreCompileInputs.cache
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfoInputs.cache
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfo.cs
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.dll
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.pdb
+F:\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csproj.CoreCompileInputs.cache
+F:\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfoInputs.cache
+F:\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfo.cs
+F:\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csprojResolveAssemblyReference.cache
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csproj.CoreCompileInputs.cache
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfoInputs.cache
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfo.cs
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.deps.json
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.pdb
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.pdb
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csprojResolveAssemblyReference.cache

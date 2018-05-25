@@ -1,0 +1,41 @@
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csprojResolveAssemblyReference.cache
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csproj.CoreCompileInputs.cache
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfoInputs.cache
+c:\users\ataulhayezafarahmad\Source\Repos\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfo.cs
+F:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csprojResolveAssemblyReference.cache
+F:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csproj.CoreCompileInputs.cache
+F:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfoInputs.cache
+F:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfo.cs
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csprojResolveAssemblyReference.cache
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csproj.CoreCompileInputs.cache
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfoInputs.cache
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfo.cs
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.deps.json
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.runtimeconfig.json
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.runtimeconfig.dev.json
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.dll
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.pdb
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.dll
+D:\HP Laptop Data\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.pdb
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.deps.json
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.runtimeconfig.json
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.runtimeconfig.dev.json
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.dll
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.pdb
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csproj.CoreCompileInputs.cache
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfoInputs.cache
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfo.cs
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.dll
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.pdb
+C:\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csprojAssemblyReference.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.deps.json
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.runtimeconfig.json
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.runtimeconfig.dev.json
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.dll
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\bin\Debug\netcoreapp2.0\DaenetFirewallWebApp.pdb
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csprojAssemblyReference.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfoInputs.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.AssemblyInfo.cs
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.dll
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetFirewallWebApp\obj\Debug\netcoreapp2.0\DaenetFirewallWebApp.pdb
