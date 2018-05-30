@@ -11,8 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Daenet.Firewall.Middleware")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("daenet GmbH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("daenet Gesellschaft für Informationstechnologie mbH")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("provides a very simple IP blocking mechanism for ASP.NET Core applications.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Daenet.Firewall.Middleware")]

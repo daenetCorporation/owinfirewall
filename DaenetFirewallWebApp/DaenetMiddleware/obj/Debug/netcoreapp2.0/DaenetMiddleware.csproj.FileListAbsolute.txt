@@ -20,3 +20,12 @@ D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\
 D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll
 D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.pdb
 D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csprojResolveAssemblyReference.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.deps.json
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.pdb
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csprojAssemblyReference.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfoInputs.cache
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\DaenetMiddleware.AssemblyInfo.cs
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll
+C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\obj\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.pdb

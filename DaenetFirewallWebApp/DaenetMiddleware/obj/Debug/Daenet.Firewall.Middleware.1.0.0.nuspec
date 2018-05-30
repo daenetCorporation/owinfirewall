@@ -3,10 +3,16 @@
   <metadata>
     <id>Daenet.Firewall.Middleware</id>
     <version>1.0.0</version>
-    <authors>Daenet.Firewall.Middleware</authors>
-    <owners>Daenet.Firewall.Middleware</owners>
+    <authors>daenet GmbH</authors>
+    <owners>daenet GmbH</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package Description</description>
+    <projectUrl>https://github.com/daenetCorporation/owinfirewall</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/12556447?v=4&amp;amp;s=200</iconUrl>
+    <description>provides a very simple IP blocking mechanism for ASP.NET Core applications.</description>
+    <releaseNotes>Updated to .net core 2.0.0</releaseNotes>
+    <copyright>daenet Gesellschaft für Informationstechnologie mbH</copyright>
+    <tags>ASP.NET Core daenet FirewallMiddleware for IP blocking</tags>
+    <repository url="https://github.com/daenetCorporation/owinfirewall" />
     <dependencies>
       <group targetFramework=".NETCoreApp2.0">
         <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.0.3" exclude="Build,Analyzers" />
@@ -14,6 +20,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\HP Laptop Data\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll" target="lib\netcoreapp2.0\Daenet.Firewall.Middleware.dll" />
+    <file src="C:\Users\ataul\source\repos\owinfirewall\DaenetFirewallWebApp\DaenetMiddleware\bin\Debug\netcoreapp2.0\Daenet.Firewall.Middleware.dll" target="lib\netcoreapp2.0\Daenet.Firewall.Middleware.dll" />
   </files>
 </package>
