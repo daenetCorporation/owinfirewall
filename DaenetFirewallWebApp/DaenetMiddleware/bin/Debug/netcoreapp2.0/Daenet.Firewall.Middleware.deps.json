@@ -1,50 +1,59 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "381ddc7796a0bc65bbf92a9a849ce9576e316d59"
+    "signature": "8e7ffcc8d4858b125964097396fcd125c5d88b57"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Daenet.Firewall.Middleware/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Http.Abstractions": "2.0.3"
+          "Microsoft.AspNetCore.Http.Abstractions": "2.1.0"
         },
         "runtime": {
           "Daenet.Firewall.Middleware.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Http.Abstractions/2.0.3": {
+      "Microsoft.AspNetCore.Http.Abstractions/2.1.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Http.Features": "2.0.3",
-          "System.Text.Encodings.Web": "4.4.0"
+          "Microsoft.AspNetCore.Http.Features": "2.1.0",
+          "System.Text.Encodings.Web": "4.5.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Http.Features/2.0.3": {
+      "Microsoft.AspNetCore.Http.Features/2.1.0": {
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "2.0.0"
+          "Microsoft.Extensions.Primitives": "2.1.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {}
         }
       },
-      "Microsoft.Extensions.Primitives/2.0.0": {
+      "Microsoft.Extensions.Primitives/2.1.0": {
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "4.4.0"
+          "System.Memory": "4.5.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/4.4.0": {
+      "System.Memory/4.5.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        },
         "runtime": {
-          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/netstandard2.0/System.Memory.dll": {}
         }
       },
-      "System.Text.Encodings.Web/4.4.0": {
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "System.Text.Encodings.Web/4.5.0": {
         "runtime": {
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
         }
@@ -57,40 +66,47 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.AspNetCore.Http.Abstractions/2.0.3": {
+    "Microsoft.AspNetCore.Http.Abstractions/2.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-68K27sUVMTaroqw40uV6tVZDmg5aVjBE9c+1tZIYbb9Zd193sTOOpnS+5vipA46OaGUv47mzSwa8h+wn0rGDQA==",
-      "path": "microsoft.aspnetcore.http.abstractions/2.0.3",
-      "hashPath": "microsoft.aspnetcore.http.abstractions.2.0.3.nupkg.sha512"
+      "sha512": "sha512-M67hU3/uAmRKXW6Oe/SYKy/r6wEgJecZgmPWDDsulzJCrZJRc/xdZtKrQ1lof40dGeuzIzBjD5jpJXblb8AMjg==",
+      "path": "microsoft.aspnetcore.http.abstractions/2.1.0",
+      "hashPath": "microsoft.aspnetcore.http.abstractions.2.1.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Http.Features/2.0.3": {
+    "Microsoft.AspNetCore.Http.Features/2.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/aQjeLghQofUYDIbOv+D/QOQi4+AqEnqWK9ZUrHftsKe6h4NaDYH1hajwJz4a+lgkQh3OuhLxZnJNZBVpb+AHQ==",
-      "path": "microsoft.aspnetcore.http.features/2.0.3",
-      "hashPath": "microsoft.aspnetcore.http.features.2.0.3.nupkg.sha512"
+      "sha512": "sha512-V1lLM0JBEEyZb0e0LTVr2hD8hWGZi6jHlvwmIn7hvJ5FTal63BnKwkBHNe2aYgISzZ3ag6bmwVmPQigzHd7p6w==",
+      "path": "microsoft.aspnetcore.http.features/2.1.0",
+      "hashPath": "microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.Primitives/2.0.0": {
+    "Microsoft.Extensions.Primitives/2.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ukg53qNlqTrK38WA30b5qhw0GD7y3jdI9PHHASjdKyTcBHTevFM2o23tyk3pWCgAV27Bbkm+CPQ2zUe1ZOuYSA==",
-      "path": "microsoft.extensions.primitives/2.0.0",
-      "hashPath": "microsoft.extensions.primitives.2.0.0.nupkg.sha512"
+      "sha512": "sha512-U+TqiIAwTQQVlX/+270Z1pv+4aVOl7/Dd39znQcdDpK8nzbdaEt0qahI0e6ZPb8b/1YvQ/iUeWpuYq91NWjaTg==",
+      "path": "microsoft.extensions.primitives/2.1.0",
+      "hashPath": "microsoft.extensions.primitives.2.1.0.nupkg.sha512"
     },
-    "System.Runtime.CompilerServices.Unsafe/4.4.0": {
+    "System.Memory/4.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
-      "path": "system.runtime.compilerservices.unsafe/4.4.0",
-      "hashPath": "system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+      "sha512": "sha512-P56/L4B9vhz0YFTC4qIXFgx+VgMhg3JhCm5/EASihTotyjwmBt2QEAQdmd2tNctYET/w0CRJzVH1cwxgbKGnDQ==",
+      "path": "system.memory/4.5.0",
+      "hashPath": "system.memory.4.5.0.nupkg.sha512"
     },
-    "System.Text.Encodings.Web/4.4.0": {
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-l/tYeikqMHX2MD2jzrHDfR9ejrpTTF7wvAEbR51AMvzip1wSJgiURbDik4iv/w7ZgytmTD/hlwpplEhF9bmFNw==",
-      "path": "system.text.encodings.web/4.4.0",
-      "hashPath": "system.text.encodings.web.4.4.0.nupkg.sha512"
+      "sha512": "sha512-6zBxkHYemB0kQiHP3vGXGRXejZVoNVuMn2paUuqKKi5Wyjkxfkp+D0rd0c3VrGwotidRINt6KpOi2smL4VkJKw==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JF+wDdfFiRl3rz3dPMfR6aR568AW2J5CUMmhSflgHDz4zbVK4/00ax8UHnHyEMvblPewgNugjuA4oyoL8Pex2g==",
+      "path": "system.text.encodings.web/4.5.0",
+      "hashPath": "system.text.encodings.web.4.5.0.nupkg.sha512"
     }
   }
 }
