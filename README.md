@@ -8,7 +8,7 @@ Inside of this repository you will find two applications. One is implemented on 
 ## How does it work?
 Middleware is software that is assembled into an application pipeline to handle requests and responses. Each component chooses whether to pass the request on to the next component in the pipeline, and can perform certain actions before and after the next component is invoked in the pipeline.
 1. Add nuget package:
-**First**, install the Daenet... [NuGet Package](https://www.nuget.org/packages/Daenet.Firewall.Middleware/1.0.0) into your application.
+**First**, install the Daenet.Firewall.Middleware [NuGet Package](https://www.nuget.org/packages/Daenet.Firewall.Middleware/1.0.0) into your application.
 
 2. Whitelisting of IP addresses 
 To specify users, which are considered to use it. Go to the startup of the application and type the particular IP addresses as shown in the picture below.By default this OWIN middleware block all IP addresses.
